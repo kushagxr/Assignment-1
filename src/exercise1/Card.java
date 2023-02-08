@@ -42,5 +42,6 @@ public class Card {
      */
     public void setValue(int value) {
         this.value = value;
-    }  
+    
+    }
 }
